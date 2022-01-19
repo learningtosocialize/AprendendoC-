@@ -1,0 +1,15 @@
+C:\workspace\C#\xenlongao\bin\Debug\net6.0\xenlongao.exe
+C:\workspace\C#\xenlongao\bin\Debug\net6.0\xenlongao.deps.json
+C:\workspace\C#\xenlongao\bin\Debug\net6.0\xenlongao.runtimeconfig.json
+C:\workspace\C#\xenlongao\bin\Debug\net6.0\xenlongao.dll
+C:\workspace\C#\xenlongao\bin\Debug\net6.0\ref\xenlongao.dll
+C:\workspace\C#\xenlongao\bin\Debug\net6.0\xenlongao.pdb
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.csproj.AssemblyReference.cache
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.AssemblyInfoInputs.cache
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.AssemblyInfo.cs
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.csproj.CoreCompileInputs.cache
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.dll
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\ref\xenlongao.dll
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.pdb
+C:\workspace\C#\xenlongao\obj\Debug\net6.0\xenlongao.genruntimeconfig.cache

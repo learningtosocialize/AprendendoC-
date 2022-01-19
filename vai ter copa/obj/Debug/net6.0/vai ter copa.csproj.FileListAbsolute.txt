@@ -1,0 +1,14 @@
+C:\workspace\C#\vai ter copa\bin\Debug\net6.0\vai ter copa.exe
+C:\workspace\C#\vai ter copa\bin\Debug\net6.0\vai ter copa.deps.json
+C:\workspace\C#\vai ter copa\bin\Debug\net6.0\vai ter copa.runtimeconfig.json
+C:\workspace\C#\vai ter copa\bin\Debug\net6.0\vai ter copa.dll
+C:\workspace\C#\vai ter copa\bin\Debug\net6.0\ref\vai ter copa.dll
+C:\workspace\C#\vai ter copa\bin\Debug\net6.0\vai ter copa.pdb
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.AssemblyInfoInputs.cache
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.AssemblyInfo.cs
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.csproj.CoreCompileInputs.cache
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.dll
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\ref\vai ter copa.dll
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.pdb
+C:\workspace\C#\vai ter copa\obj\Debug\net6.0\vai ter copa.genruntimeconfig.cache

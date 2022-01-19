@@ -1,0 +1,14 @@
+C:\workspace\C#\Sequencia IJ\bin\Debug\net6.0\Sequencia IJ.exe
+C:\workspace\C#\Sequencia IJ\bin\Debug\net6.0\Sequencia IJ.deps.json
+C:\workspace\C#\Sequencia IJ\bin\Debug\net6.0\Sequencia IJ.runtimeconfig.json
+C:\workspace\C#\Sequencia IJ\bin\Debug\net6.0\Sequencia IJ.dll
+C:\workspace\C#\Sequencia IJ\bin\Debug\net6.0\ref\Sequencia IJ.dll
+C:\workspace\C#\Sequencia IJ\bin\Debug\net6.0\Sequencia IJ.pdb
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.AssemblyInfoInputs.cache
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.AssemblyInfo.cs
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.dll
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\ref\Sequencia IJ.dll
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.pdb
+C:\workspace\C#\Sequencia IJ\obj\Debug\net6.0\Sequencia IJ.genruntimeconfig.cache

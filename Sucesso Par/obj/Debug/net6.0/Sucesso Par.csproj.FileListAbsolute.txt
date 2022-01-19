@@ -1,0 +1,14 @@
+C:\workspace\C#\Sucesso Par\bin\Debug\net6.0\Sucesso Par.exe
+C:\workspace\C#\Sucesso Par\bin\Debug\net6.0\Sucesso Par.deps.json
+C:\workspace\C#\Sucesso Par\bin\Debug\net6.0\Sucesso Par.runtimeconfig.json
+C:\workspace\C#\Sucesso Par\bin\Debug\net6.0\Sucesso Par.dll
+C:\workspace\C#\Sucesso Par\bin\Debug\net6.0\ref\Sucesso Par.dll
+C:\workspace\C#\Sucesso Par\bin\Debug\net6.0\Sucesso Par.pdb
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.AssemblyInfoInputs.cache
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.AssemblyInfo.cs
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.dll
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\ref\Sucesso Par.dll
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.pdb
+C:\workspace\C#\Sucesso Par\obj\Debug\net6.0\Sucesso Par.genruntimeconfig.cache

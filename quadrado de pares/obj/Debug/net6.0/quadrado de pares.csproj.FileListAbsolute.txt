@@ -1,0 +1,15 @@
+C:\workspace\C#\quadrado de pares\bin\Debug\net6.0\quadrado de pares.exe
+C:\workspace\C#\quadrado de pares\bin\Debug\net6.0\quadrado de pares.deps.json
+C:\workspace\C#\quadrado de pares\bin\Debug\net6.0\quadrado de pares.runtimeconfig.json
+C:\workspace\C#\quadrado de pares\bin\Debug\net6.0\quadrado de pares.dll
+C:\workspace\C#\quadrado de pares\bin\Debug\net6.0\ref\quadrado de pares.dll
+C:\workspace\C#\quadrado de pares\bin\Debug\net6.0\quadrado de pares.pdb
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.csproj.AssemblyReference.cache
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.AssemblyInfoInputs.cache
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.AssemblyInfo.cs
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.csproj.CoreCompileInputs.cache
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.dll
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\ref\quadrado de pares.dll
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.pdb
+C:\workspace\C#\quadrado de pares\obj\Debug\net6.0\quadrado de pares.genruntimeconfig.cache

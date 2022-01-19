@@ -1,0 +1,15 @@
+C:\workspace\C#\Sequencia S\bin\Debug\net6.0\Sequencia S.exe
+C:\workspace\C#\Sequencia S\bin\Debug\net6.0\Sequencia S.deps.json
+C:\workspace\C#\Sequencia S\bin\Debug\net6.0\Sequencia S.runtimeconfig.json
+C:\workspace\C#\Sequencia S\bin\Debug\net6.0\Sequencia S.dll
+C:\workspace\C#\Sequencia S\bin\Debug\net6.0\ref\Sequencia S.dll
+C:\workspace\C#\Sequencia S\bin\Debug\net6.0\Sequencia S.pdb
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.csproj.AssemblyReference.cache
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.AssemblyInfoInputs.cache
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.AssemblyInfo.cs
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.csproj.CoreCompileInputs.cache
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.dll
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\ref\Sequencia S.dll
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.pdb
+C:\workspace\C#\Sequencia S\obj\Debug\net6.0\Sequencia S.genruntimeconfig.cache
